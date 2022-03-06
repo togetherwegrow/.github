@@ -1,6 +1,6 @@
 <div align='center'>
 
-  <img src='logo.png' width='350px' alt='Logo' />
+  <img src='profile/logo.png' width='350px' alt='Logo' />
 
   Learning and growing together since 2020.
 
